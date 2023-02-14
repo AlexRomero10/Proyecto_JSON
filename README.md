@@ -7,7 +7,7 @@ A partir del fichero JSON mundial2018.json obtener la siguiente información:
 
 3- Buscar o filtrar información: Mostrar todos los partidos de la selección dada, es decir, todos los rivales a los que se ha enfrentado.
 
-4- Buscar información relacionada: Mostrar quienes fueron los jugadores que marcaron los goles por Rusia y en qué tiempos se marcaron los goles
+4- Buscar información relacionada: Pide por teclado un pais y que te devuelva los goles que han marcado y los minutos.
 
 5- Último partido: Mostrar el último partido que jugó en esta competición una selección dada. Tiene que mostrar la fecha y la hora en que se disputó, la selección rival y el resultado final del encuentro.
 
