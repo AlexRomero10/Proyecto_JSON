@@ -1,9 +1,8 @@
 # Proyecto_JSON
 A partir del fichero JSON mundial2018.json obtener la siguiente información:
-
-    Listar información: Listar de todos los partidos, las selecciones que han jugado como locales este mundial.
-    Contar información: Mostrar el número de partidos que se han disputado en este mundial.
-    Buscar o filtrar información: Mostrar todos los partidos de la selección dada, es decir, todos los rivales a los que se ha enfrentado.
-    Buscar información relacionada: Mostrar los partidos que han terminado con un resultado dado.
-    Último partido: Mostrar el último partido que jugó en esta competición una selección dada. Tiene que mostrar la fecha y la hora en que se disputó, la selección rival y el resultado final del encuentro.
+1- Listar información: Listar de todos los partidos, las selecciones que han jugado como team1(local) este mundial.
+2- Contar información: Mostrar el número de partidos que se han disputado en este mundial.
+3- Buscar o filtrar información: Mostrar todos los partidos de la selección dada, es decir, todos los rivales a los que se ha enfrentado.
+4- Buscar información relacionada: Pide por teclado dos equipos que hayan jugado la final del mundial y que te muestre el ganador del mundial
+5- Último partido: Mostrar el último partido que jugó en esta competición una selección dada. Tiene que mostrar la fecha y la hora en que se disputó, la selección rival y el resultado final del encuentro.
 
